@@ -36,4 +36,9 @@ Figure 7 shows the % of total drivers by city type, which as expected urban driv
 
 ![Fig7](https://user-images.githubusercontent.com/95301484/151110763-ab123d75-aac9-4a18-92e9-4f7e36662c71.png)
 
+#Challenge
+In the challenge the data was further analysised to at total ride fare by city type over the first 4 months of the year. The graph below shows that revenues from urban cities far outweigh revenues from suburban and rural cities. 
+
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/95301484/151108416-88adfccd-4f79-43df-8b72-d4b40d35b39b.png)
+
+
