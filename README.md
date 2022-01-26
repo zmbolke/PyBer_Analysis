@@ -24,5 +24,16 @@ Figure 4 shows the average driver count per city based on city type. As shown, u
 
 ![Fig4](https://user-images.githubusercontent.com/95301484/151109947-e0083795-fbb9-4384-8abc-5f7b923e156e.png)
 
+Figure 5 is a pie chart which shows percent of total fares by city type. It is clear that the highest revenue generators for PyBer are urban cities with 62.7%, followed by suburban at 30.5%, and rural at 6.8%. 
+
+![Fig5](https://user-images.githubusercontent.com/95301484/151110214-1329893e-eccf-4325-904f-7e5c75990294.png)
+
+Figure 6 shows the % of total rides by city type, which closely follows the pattern of figure 5.
+
+![Fig6](https://user-images.githubusercontent.com/95301484/151110601-a895862b-d2f4-40f9-8f05-3a9697074241.png)
+
+Figure 7 shows the % of total drivers by city type, which as expected urban drivers make up the vast majority at 80.9%, followed by suburban drivers at 16.5%, and rural drviers at 2.6%. 
+
+![Fig7](https://user-images.githubusercontent.com/95301484/151110763-ab123d75-aac9-4a18-92e9-4f7e36662c71.png)
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/95301484/151108416-88adfccd-4f79-43df-8b72-d4b40d35b39b.png)
