@@ -36,9 +36,14 @@ Figure 7 shows the % of total drivers by city type, which as expected urban driv
 
 ![Fig7](https://user-images.githubusercontent.com/95301484/151110763-ab123d75-aac9-4a18-92e9-4f7e36662c71.png)
 
-#Challenge
+#Challenge Analysis
 In the challenge the data was further analysised to at total ride fare by city type over the first 4 months of the year. The graph below shows that revenues from urban cities far outweigh revenues from suburban and rural cities. 
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/95301484/151108416-88adfccd-4f79-43df-8b72-d4b40d35b39b.png)
 
+#Results
+As shown in the graphs and charts above, the vast majority of revenue comes from urban cities due primarily to the volume of ride comeared to suburban and rural citites. Revenue per ride is actually highest in rural cities, but there is not enough ride volume in rural cities to make a major impact on revenues. Additionally this is likely due to the shortage of drivers and length of rides. 
+
+#Summary
+I would recommend to the CEO that we primarily try to expand in the urban and suburban cities. The urban cities have such a high volume of rides and drivers available, that this market  should continue to grow and will likely remian the leading revenue generator. Suburban cities are the market that I would try to market toward because they have.  
 
